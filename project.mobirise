@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WEngine.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -184,7 +184,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "When we go online, most people use social media; Facebook, Instagram, Twitter or Pintrest. A lot of people even use mutiple. But what we noticed is that there was nothing like that for businesses, sure there are some on Facebook, but very little. So we decided to fix that. Our aim was to create a social media services for businesses, with businesses. Here you will be able to find new buisness partners or maybe even new employees.",
+          "text1": "When we go online, most people use social media; Facebook, Instagram, Twitter or Pinterest. A lot of people even use mutiple. But what we noticed is that there was nothing like that for businesses, sure there are some on Facebook, but very little. So we decided to fix that. Our aim was to create a social media services for businesses, with businesses. Here you will be able to find new buisness partners or maybe even new employees.",
           "text2": "<p>For example: You own a construction company. You decide it's time to take your business online. But than you realise. You're great at building walls, but not at building websites. So on Business Pro you can find a partner, which can help you build a website. It's that easy! You just click on their company, click on contact and you can send them an email, which you can be sure of they will read. That way you don't have to deal with unanswering companies.</p>"
         },
         {
