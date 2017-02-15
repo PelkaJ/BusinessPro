@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "GDesign.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "3.12"
   },
   "pages": {
@@ -323,6 +323,77 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“Ivo is the person who came up with the idea of Business Pro. He also thought up the name and some sketches of the design of the website.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Ivo van Gestel",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“Pepijn is what you call: \"The Mind\". He designed the idea for our logo and designed sketches of the website. Together with Ivo he has written a big part of our presentation”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Pepijn van Gils",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“Kuba is the designer and maintainer of Business Pro. He has  mostly designed and build the site and Android app. He also hosts the website.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Kuba Pelka",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "count": "3",
+            "showImages": true,
+            "showName": true,
+            "showBio": false
+          },
+          "title": "The minds behind Business Pro",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_name": "footer1",
