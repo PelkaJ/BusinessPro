@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "GDesign.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -149,7 +149,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "This is<br>Buisness Pro",
+          "title": "This is<br>Business Pro",
           "text": "Here you will be able to find new business partners,<br>employees and customers.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-1\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features3-0\" data-toolbar=\"-mbrBtnMove\">Companies</a>"
         },
@@ -339,7 +339,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Buisness Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc.."
         }
       ]
     },
@@ -754,6 +754,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-p",
           "_params": {
             "labelsColor": "#232323",
@@ -799,12 +804,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_name": "footer1",
@@ -821,7 +821,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Buisness Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc.."
         }
       ]
     },
@@ -1265,7 +1265,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Buisness Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc.."
         }
       ]
     }
