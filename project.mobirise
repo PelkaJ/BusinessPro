@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "WEngine.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"4.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"4.html\" aria-expanded=\"true\">Our Companies</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">G-Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Web Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Precision</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -247,9 +247,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "G. Design",
+          "title1": "G-Design",
           "subtitle1": "For all your graphic needs!",
-          "caption1": "G. Design is a company dedicated to creating the best possible graphics. Our skilled team of graphic-designers are here for all your needs!<br>",
+          "caption1": "G-Design is a company dedicated to creating the best possible graphics. Our skilled team of graphic-designers are here for all your needs!<br>",
           "button1": "<a data-app-btn=\"true\" href=\"GDesign.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -508,7 +508,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"4.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"4.html\" aria-expanded=\"true\">Our Companies</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">G-Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Web Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Precision</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -538,8 +538,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "G. Design",
-          "text": "G. Design is a company dedicated to creating the best possible designs.. Our skilled team of graphic-designers are here for all your needs! We can work from scratch or using a template provided by you.",
+          "title": "G-Design",
+          "text": "G-Design is a company dedicated to creating the best possible designs. Our skilled team of graphic-designers are here for all your needs! We can work from scratch or using a template provided by you.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"GDesign.html#header3-i\" data-toolbar=\"-mbrBtnMove\">Our Projects<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"GDesign.html#testimonials2-k\" data-toolbar=\"-mbrBtnMove\">Our Designers</a>"
         },
         {
@@ -578,7 +578,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Our company started in London in 2008, since then a lot has changed, but not our mentality. For us the customer is always the king. We can always give you recomendations, but what you say, is what we do. G. Design began as a humble company in an apartment in London with one designer, our current CEO John Snake. After just a few weaks John was getting so many requests that he couldn't handle it alone, so he employed his two best friends Lucian Snipes and Steward Snow. Lucian and Steward are our Senior Graphic-Designers at the moment. From there the company only grew. Currently we are employing 55 people of which 26 designers to handle all of our work. To do our work we use software from Adobe. We use Photoshop and Illustrator and are always open for improvements. If you have any suggestions. let us know!</p>"
+          "text": "<p>Our company started in London in 2008, since then a lot has changed, but not our mentality. For us the customer is always the king. We can always give you recomendations, but what you say, is what we do. G-Design began as a humble company in an apartment in London with one designer, our current CEO John Snake. After just a few weaks John was getting so many requests that he couldn't handle it alone, so he employed his two best friends Lucian Snipes and Steward Snow. Lucian and Steward are our Senior Graphic-Designers at the moment. From there the company only grew. Currently we are employing 55 people of which 26 designers to handle all of our work. To do our work we use software from Adobe. We use Photoshop and Illustrator and are always open for improvements. If you have any suggestions. let us know!</p>"
         },
         {
           "_styles": {
@@ -727,7 +727,7 @@
               "authorBio": "CEO"
             },
             {
-              "text": "<p>“I love working for G. Design. It's a great company which doesn't lock you down, but lets you be creative. Many companies make you sit in your office doing repetetive work, but not here.”</p>",
+              "text": "<p>“I love working for G-Design. It's a great company which doesn't lock you down, but lets you be creative. Many companies make you sit in your office doing repetetive work, but not here.”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/guy-gerber-160x136.jpg",
@@ -745,7 +745,7 @@
               "authorBio": "Senior Designer"
             },
             {
-              "text": "<p>“I enjoy working dor G. Design. The atmosphere here is great! We can use familiar software and use whatever we need to do our work. We are free to express our creativity.”</p>",
+              "text": "<p>“I enjoy working dor G-Design. The atmosphere here is great! We can use familiar software and use whatever we need to do our work. We are free to express our creativity.”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/best-places-to-work-160x106.jpg",
@@ -990,7 +990,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"4.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"4.html\" aria-expanded=\"true\">Our Companies</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">G-Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Web Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Precision</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
