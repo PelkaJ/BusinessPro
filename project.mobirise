@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "GDesign.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,8 +29,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Business Pro",
+        "meta_descr": "Business Pro Main Website",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
