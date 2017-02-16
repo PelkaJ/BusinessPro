@@ -773,3 +773,99 @@ h6,
 #form1-1h .form-control-label {
   color: #232323;
 }
+#menu-1n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1n .navbar-caption {
+  color: #ffffff;
+}
+#menu-1n .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1n .link,
+#menu-1n .dropdown-item {
+  color: #ffffff;
+}
+#menu-1n .link {
+  font-size: 0.75rem;
+}
+#menu-1n .dropdown-item,
+#menu-1n .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1n .link:hover,
+#menu-1n .dropdown-item:hover,
+#menu-1n .link:focus,
+#menu-1n .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-1n .nav-dropdown-sm .link:focus,
+#menu-1n .nav-dropdown-sm .link:hover,
+#menu-1n .nav-dropdown-sm .dropdown-item:focus,
+#menu-1n .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-1n .navbar,
+#menu-1n .nav-dropdown-sm,
+#menu-1n .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1n .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-1n .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1n .bg-color.transparent.opened .link:hover,
+#menu-1n .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-1n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1n .close-icon::before,
+#menu-1n .close-icon::after {
+  background-color: #ffffff;
+}
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-1q DIV {
+  text-align: center;
+}
+#header3-1r .mbr-section-title,
+#header3-1r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-1u .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1u .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#header3-1v .mbr-section-title,
+#header3-1v .mbr-section-subtitle {
+  text-align: center;
+}
+#form1-1x .form-control-label {
+  color: #232323;
+}
