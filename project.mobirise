@@ -500,7 +500,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
+          "text": "Copyright (c) 2017 Business Pro Inc..<br><a href=\"github.com/BusinessPro/BusinessPro/tree/gh-pages\">Source code</a>"
         }
       ]
     },
@@ -982,7 +982,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
+          "text": "Copyright (c) 2017 Business Pro Inc..<br><a href=\"github.com/BusinessPro/BusinessPro/tree/gh-pages\">Source code</a>"
         }
       ]
     },
@@ -1426,7 +1426,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
+          "text": "Copyright (c) 2017 Business Pro Inc..<br><a href=\"github.com/BusinessPro/BusinessPro/tree/gh-pages\">Source code</a>"
         }
       ]
     },
@@ -1895,7 +1895,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
+          "text": "Copyright (c) 2017 Business Pro Inc..<br><a href=\"github.com/BusinessPro/BusinessPro/tree/gh-pages\">Source code</a>"
         }
       ]
     },
@@ -2347,7 +2347,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
+          "text": "Copyright (c) 2017 Business Pro Inc..<br><a href=\"github.com/BusinessPro/BusinessPro/tree/gh-pages\">Source code</a>"
         }
       ]
     }
