@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Jade.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 71,
+    "uniqCompNum": 77,
     "versionPublish": "3.12"
   },
   "pages": {
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#header3-3\" aria-expanded=\"true\">Our Companies</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GDesign.html\">G-Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WEngine.html\">Web Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Precisi.html\">Precision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Jade</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://github.com/BusinessPro/BusinessPro/releases\">Download Our App</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#header3-3\" aria-expanded=\"true\">Our Companies</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GDesign.html\">G-Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WEngine.html\">Web Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Precisi.html\">Precision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jade.html\">Jade</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://github.com/BusinessPro/BusinessPro/releases\">Download Our App</a></li>"
         },
         {
           "_name": "header1",
@@ -298,7 +298,7 @@
           "title4": "Jade",
           "subtitle4": "Translate your most important moments",
           "caption4": "We as a company are dedicated to make it possible for you to share your most important moments. No matter what language.",
-          "button4": "<a data-app-btn=\"true\" href=\"4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Jade.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -394,6 +394,121 @@
           },
           "title": "The minds behind Business Pro",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-24",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Ivo van Gestel",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<i>“Ivo is the person who came up with the idea of Business Pro. He also thought up the name and some sketches of the design of the website.”</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Pepijn van Gils",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<i>“Pepijn is what you call: \"The Mind\". He designed the idea for our logo and designed sketches of the website. Together with Ivo he has written a big part of our presentation”</i>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kuba-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Kuba Pelka",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<i>“Kuba is the designer and maintainer of Business Pro. He has  mostly designed and build the site and Android app. He also hosts the website.”</i>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anton-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Maarten van Gils",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -1903,7 +2018,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#header3-3\" aria-expanded=\"true\">Our Companies</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GDesign.html\">G-Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WEngine.html\">Web Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Precisi.html\">Precision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"4.html\">Jade</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://github.com/BusinessPro/BusinessPro/releases\">Download Our App</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#header3-3\" aria-expanded=\"true\">Our Companies</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GDesign.html\">G-Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WEngine.html\">Web Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Precisi.html\">Precision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Jade.html\">Jade</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://github.com/BusinessPro/BusinessPro/releases\">Download Our App</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1934,8 +2049,8 @@
             "showButtons": true
           },
           "title": "Jade",
-          "text": "Here at precision we know how important it is to feel safe at home. That's why we are here. We can repair your mains network, replace the plumbing and even build and destroy walls. And that all with a price good for the wallet.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Precisi.html#header3-1m\" data-toolbar=\"-mbrBtnMove\">Why Us?<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Precisi.html#header3-1j\" data-toolbar=\"-mbrBtnMove\">Our biggest job</a>"
+          "text": "There are a lot of diffrent languages, and there is nobody that can speak them all. That's why Jade excists. We can translate what ever you want in over 60 diffrent languages. Offcourse there are alternatives like Google Translate, but that's translated by a machine and will never be as good as a real human.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Jade.html#header3-1p\" data-toolbar=\"-mbrBtnMove\">About us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Jade.html#header3-20\" data-toolbar=\"-mbrBtnMove\">Example work</a>"
         },
         {
           "_styles": {
@@ -1973,7 +2088,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>My dad owned a construction company. Sometimes I got to go with him to work and I loved it. Since I was a little kid I wanted to own a construction company just like my dad. People say i\bt's hard work, but everything can be fun, even the most tedious of chores, if you love to do them! That's why, when I was 33 years old I started Precision in Breda. I still cannot believe it's been 10 years already! Every day here at work, together with my employees is a great day. Everybody in the team knows what to do and when.<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;With currently 16 workers in the company, we're not big, but we're great.</span></p><p>- Johny Bakersson, CEO</p>"
+          "text": "There are 7097 languages spooken today, of which 27 are spoken over half the planet. Nobody is able to speak all of these or not even the 27 most important, but our team of linguists can translate to and from over 60 languages. We can guarantee that your text will be translated by a human and not a robot, so you can expect correct translations. Our team of 66 translators can translate anything from a birthday card to business documents. In the 22 years that our company exists, we have not ever had a complaint."
         },
         {
           "_styles": {
@@ -1985,82 +2100,40 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1r",
+          "_anchor": "header3-20",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Some of our work",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1s",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=AXg7BNaOjDA",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "Our biggest job to date."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1t",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Why choose us?",
+          "title": "An example",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
           "_styles": {
             ".card-subtitle": {
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_anchor": "features4-1u",
+          "_name": "features7",
+          "_anchor": "features7-1z",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2069,81 +2142,81 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 3,
-            "showImages": true,
+            "columns": 4,
+            "showImages": false,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
           },
           "media1": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "phone",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
-          "title1": "Easy to contact",
-          "subtitle1": "Always in touch with you.",
-          "caption1": "We will always answer your calls. Even in the harshest enviroments, thanks to a sattelite phone. Just like those used by the militairy.",
+          "title1": "English",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "I am here to show you how to bake cake. Today we will be making chocolate cake, with strawberries and crème.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "edit",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
-          "title2": "Responsible",
-          "subtitle2": "We will always follow the plan.",
-          "caption2": "When an architect gives us the plans for your building, we don't change anything. We just build, except when something is dangerous, than we will always let you know.",
+          "title2": "Dutch",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Ik ben hier om je te laten zien hoe je cake moet bakken. Vandaag gaan we chocolade taart, met aardbeien en créme maken.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
-          "title3": "Proffesional",
-          "subtitle3": "Always at work.",
-          "caption3": "We won't be wasting your time. We finish 98% jobs before the deadline. And never later than a week after your set date. We only have the best engineers, who are good at ther jobs.",
+          "title3": "Polish",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Jestem tutaj, aby pokazać, jak upiec ciasto. Dzisiaj będziemy robić ciasto czekoladowe z truskawkami i kremem.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "French",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Je suis ici pour vous montrer comment cuire le gâteau. Aujourd'hui, nous ferons des gâteaux au chocolat, avec des fraises et de la crème.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -2154,11 +2227,11 @@
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
@@ -2166,6 +2239,31 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-21",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-0369-v3-1400x739.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Our team"
         },
         {
           "_styles": {
@@ -2195,8 +2293,8 @@
           "_anchor": "map1-1w",
           "_params": {
             "googleMap": {
-              "address": "Korte Brugstraat 3\n4811 ZA Breda",
-              "placeId": "ChIJ0X5bDoefxkcRJYUkwB2ZFvs",
+              "address": "Donkersteeg 28, 9000 Gent, België\n ",
+              "placeId": "EiJEb25rZXJzdGVlZyAyOCwgOTAwMCBHZW50LCBCZWxnacOr",
               "state": "ok",
               "stateDetails": ""
             }

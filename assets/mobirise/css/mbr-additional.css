@@ -486,6 +486,9 @@ h6,
 #header3-3 .mbr-section-subtitle {
   text-align: center;
 }
+#features1-24 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -847,20 +850,16 @@ h6,
 #content1-1q DIV {
   text-align: center;
 }
-#header3-1r .mbr-section-title,
-#header3-1r .mbr-section-subtitle {
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1t .mbr-section-title,
-#header3-1t .mbr-section-subtitle {
-  text-align: center;
-}
-#features4-1u .card-subtitle {
+#features7-1z .card-subtitle {
   color: #bcbcbc;
 }
-#features4-1u .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+#features7-1z .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
 }
 #header3-1v .mbr-section-title,
 #header3-1v .mbr-section-subtitle {
