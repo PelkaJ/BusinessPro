@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Jade.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -184,8 +184,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "When we go online, most people use social media; Facebook, Instagram, Twitter or Pinterest. A lot of people even use mutiple. But what we noticed is that there was nothing like that for businesses, sure there are some on Facebook, but very little. So we decided to fix that. Our aim was to create a social media services for businesses, with businesses. Here you will be able to find new buisness partners or maybe even new employees.",
-          "text2": "<p>For example: You own a construction company. You decide it's time to take your business online. But than you realise. You're great at building walls, but not at building websites. So on Business Pro you can find a partner, which can help you build a website. It's that easy! You just click on their company, click on contact and you can send them an email, which you can be sure of they will read. That way you don't have to deal with unanswering companies.</p>"
+          "text1": "When we go online, most people use social media; Facebook, Instagram, Twitter or Pinterest. A lot of people even use mutiple. But what we noticed is that there was nothing like that for businesses, sure there are some on Facebook, but very little. So we decided to fix that. Our aim was to create a social media service for businesses, with businesses. Here you will be able to find new business partners or maybe even new employees.",
+          "text2": "<p>For example: You own a construction company. You decide it's time to take your business online. But than you realise. You're great at building walls, but not at building websites. So on Business Pro you can find a partner, which can help you build a website. It's that easy! You just click on their company, click on contact and you can send them a message, which you can be sure of they will read. That way you don't have to deal with unanswering companies.</p>"
         },
         {
           "_styles": {
@@ -265,7 +265,7 @@
           },
           "title2": "Web Engine",
           "subtitle2": "You see that site? We made it.",
-          "caption2": "We designs modern websites. Our goal is to make every website unique!&nbsp;No business is the same, so why would their website be?",
+          "caption2": "We design modern websites. Our goal is to make every website unique!&nbsp;No business is the same, so why would their website be?",
           "button2": "<a data-app-btn=\"true\" href=\"WEngine.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -534,13 +534,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -835,7 +835,7 @@
               "authorBio": "Senior Designer"
             },
             {
-              "text": "<p>“I enjoy working dor G-Design. The atmosphere here is great! We can use familiar software and use whatever we need to do our work. We are free to express our creativity.”</p>",
+              "text": "<p>“I enjoy working for G-Design. The atmosphere here is great! We can use familiar software and do whatever we need to do our work. We are free to express our creativity.”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/best-places-to-work-160x106.jpg",
@@ -1150,7 +1150,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We began as a small webdesign studio in Amsterdam in 2009. For the first two years wo only got small contracts from individuals, until in 2011 we were asked by a major movie studio to design them a new website. Because we were working in a group of 5 people at the time, we had to work for 2 months without a break, denying all other contracts. Currently we have expanded to a major company in the centre of Amsterdam with over a 100 happy employees.</p>"
+          "text": "<p>We began as a small webdesign studio in Amsterdam in 2009. For the first two years we only got small contracts from individuals, until in 2011 we were asked by a major movie studio to design them a new website. Because we were working in a group of 5 people at the time, we had to work for 2 months without a break, denying all other contracts. Currently we have expanded to a major company in the centre of Amsterdam with over 100 happy employees.</p>"
         },
         {
           "_inherit": "pricing-table1",
@@ -1205,7 +1205,7 @@
           "price1": "150",
           "period1": "",
           "description1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Profesional design</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Responsive</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Availible in many formats</span></li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Professional design</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Responsive</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Availible in many formats</span></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "label2": "HOT!",
           "title2": "Building",
@@ -1214,7 +1214,7 @@
           "price2": "200",
           "period2": "/mo.",
           "description2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Fully Customisable</li><li class=\"list-group-item\">Made exactly as you design</li><li class=\"list-group-item\">Easily readable code</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Fully Customizable</li><li class=\"list-group-item\">Made exactly as you design</li><li class=\"list-group-item\">Easily readable code</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
           "title3": "Full Website",
@@ -1460,13 +1460,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1555,7 +1555,7 @@
             "showButtons": true
           },
           "title": "Precision",
-          "text": "Here at precision we know how important it is to feel safe at home. That's why we are here. We can repair your mains network, replace the plumbing and even build and destroy walls. And that all with a price good for the wallet.",
+          "text": "Here at precision we know how important it is to feel safe at home. That's why we are here. We can repair your mains wiring, replace the plumbing and even build and destroy walls or complete buildings. And that all with a price good for the wallet.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Precisi.html#header3-1m\" data-toolbar=\"-mbrBtnMove\">Why Us?<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Precisi.html#header3-1j\" data-toolbar=\"-mbrBtnMove\">Our biggest job</a>"
         },
         {
@@ -1738,7 +1738,7 @@
               "family": "et-line"
             }
           },
-          "title3": "Proffesional",
+          "title3": "Professional",
           "subtitle3": "Always at work.",
           "caption3": "We won't be wasting your time. We finish 98% jobs before the deadline. And never later than a week after your set date. We only have the best engineers, who are good at ther jobs.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1929,13 +1929,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2024,7 +2024,7 @@
             "showButtons": true
           },
           "title": "Jade",
-          "text": "There are a lot of diffrent languages, and there is nobody that can speak them all. That's why Jade excists. We can translate what ever you want in over 60 diffrent languages. Offcourse there are alternatives like Google Translate, but that's translated by a machine and will never be as good as a real human.",
+          "text": "There are a lot of different languages, and there is nobody that can speak them all. That's why Jade excists. We can translate whatever you want in over 60 different languages. Offcourse there are alternatives like Google Translate, but that's translated by a machine and will never be as good as a real human.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Jade.html#header3-1p\" data-toolbar=\"-mbrBtnMove\">About us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Jade.html#header3-20\" data-toolbar=\"-mbrBtnMove\">Example work</a>"
         },
         {
@@ -2063,7 +2063,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "There are 7097 languages spooken today, of which 27 are spoken over half the planet. Nobody is able to speak all of these or not even the 27 most important, but our team of linguists can translate to and from over 60 languages. We can guarantee that your text will be translated by a human and not a robot, so you can expect correct translations. Our team of 66 translators can translate anything from a birthday card to business documents. In the 22 years that our company exists, we have not ever had a complaint."
+          "text": "There are 7097 languages spooken today, of which 27 are spoken over half the planet. Nobody is able to speak all of these or not even the 27 most important ones, but our team of linguists can translate to and from over 60 languages. We can guarantee that your text will be translated by a human and not a robot, so you can expect correct translations. Our team of 66 translators can translate anything from a birthday card to business documents. In the 22 years that our company exists, we have not ever had a complaint."
         },
         {
           "_styles": {
@@ -2137,7 +2137,7 @@
           },
           "title1": "English",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "I am here to show you how to bake cake. Today we will be making chocolate cake, with strawberries and crème.",
+          "caption1": "I am here to show you how to bake cake. Today we will be making chocolate cake, with strawberries and cream.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2152,7 +2152,7 @@
           },
           "title2": "Dutch",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Ik ben hier om je te laten zien hoe je cake moet bakken. Vandaag gaan we chocolade taart, met aardbeien en créme maken.",
+          "caption2": "Ik ben hier om je te laten zien hoe je cake moet bakken. Vandaag gaan we chocolade cake, met aardbeien en crème maken.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2167,7 +2167,7 @@
           },
           "title3": "Polish",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Jestem tutaj, aby pokazać, jak upiec ciasto. Dzisiaj będziemy robić ciasto czekoladowe z truskawkami i kremem.",
+          "caption3": "Jestem tutaj, aby pokazać, jak upiec ciasto. Dziś będziemy robić ciasto czekoladowe z truskawkami i kremem.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2182,7 +2182,7 @@
           },
           "title4": "French",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Je suis ici pour vous montrer comment cuire le gâteau. Aujourd'hui, nous ferons des gâteaux au chocolat, avec des fraises et de la crème.",
+          "caption4": "Je suis ici pour montrer vous&nbsp;comment cuire le gâteau. Aujourd'hui, nous ferons de gâteau au chocolat, avec des fraises et de la crème.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
