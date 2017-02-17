@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 77,
+    "uniqCompNum": 78,
     "versionPublish": "3.12"
   },
   "pages": {
@@ -60,13 +60,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -95,7 +95,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -325,75 +325,42 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "46px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<p>“Ivo is the person who came up with the idea of Business Pro. He also thought up the name and some sketches of the design of the website.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Ivo van Gestel",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“Pepijn is what you call: \"The Mind\". He designed the idea for our logo and designed sketches of the website. Together with Ivo he has written a big part of our presentation”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Pepijn van Gils",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“Kuba is the designer and maintainer of Business Pro. He has  mostly designed and build the site and Android app. He also hosts the website.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Kuba Pelka",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-15",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-25",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "count": "3",
-            "showImages": true,
-            "showName": true,
-            "showBio": false,
-            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false
+            "showText": false,
+            "showButton": false
           },
           "title": "The minds behind Business Pro",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -519,7 +486,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -594,7 +561,7 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1001,7 +968,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1076,7 +1043,7 @@
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1445,7 +1412,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1520,7 +1487,7 @@
           "_name": "menu",
           "_anchor": "menu-18",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1914,7 +1881,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1989,7 +1956,7 @@
           "_name": "menu",
           "_anchor": "menu-1n",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2366,7 +2333,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
