@@ -500,7 +500,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
         }
       ]
     },
@@ -982,7 +982,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
         }
       ]
     },
@@ -1426,7 +1426,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
         }
       ]
     },
@@ -1895,7 +1895,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
         }
       ]
     },
@@ -2347,7 +2347,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Business Pro Inc.."
+          "text": "Copyright (c) 2017 Business Pro Inc..<br>Source code"
         }
       ]
     }
