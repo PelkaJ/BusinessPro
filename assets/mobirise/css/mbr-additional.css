@@ -946,6 +946,16 @@ h6,
 #form1-29 .form-control-label {
   color: #232323;
 }
+#msg-box8-2e .mbr-section-title,
+#msg-box8-2e p {
+  color: #fff;
+}
+#pricing-table1-2f .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-2f .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #header3-2a .mbr-section-title,
 #header3-2a .mbr-section-subtitle {
   text-align: center;
